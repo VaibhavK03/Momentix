@@ -4,9 +4,9 @@ import { TbLogout2 } from "react-icons/tb";
 
 const RightSidebar = () => {
   return (
-    <div className="hidden xl:block w-[24%]">
-      <div className="post-container container border  border-blue-300 rounded-2xl h-[300px] w-[400px] m-10 bg-[#151515]">
-        <div className="profile-info flex p-8 pl-0 items-center gap-6">
+    <div className="hidden lg:block w-[24%] m-2">
+      <div className="border  border-blue-300 rounded-2xl h-[300px] max-w-[400px] mt-6 bg-[#151515]">
+        <div className="profile-info flex m-4 mb-0 p-8 pl-0 items-center gap-6">
           <div className="profile-dp ">
             <div className="h-14 w-14">
               <img

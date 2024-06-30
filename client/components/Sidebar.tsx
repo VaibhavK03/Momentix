@@ -6,7 +6,7 @@ import { FcAbout } from "react-icons/fc";
 
 const Sidebar = () => {
   return (
-    <div className="hidden 2xl:block left-0 border-r border-gray-600 h-full w-[16%] p-10 ">
+    <div className="hidden xl:flex left-0 border-r border-gray-600 h-full w-[16%] p-10 ">
       <div className="w-full">
         <ul className="space-y-8 w-full">
           <li>

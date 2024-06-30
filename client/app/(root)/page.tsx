@@ -16,7 +16,7 @@ const Home = () => {
   return (
     <>
     <Sidebar/>
-    <div className=" xl:w-[60%] w-full flex flex-col items-center p-5 m-2 overflow-auto no-scrollbar">
+    <div className=" xl:w-[60%] w-full flex flex-col items-center p-5 xl:m-2 overflow-auto no-scrollbar">
       <PostCard/> 
       <PostCard/> 
       <PostCard/> 
